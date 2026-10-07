@@ -1,0 +1,6 @@
+node_modules/
+accounts.json
+accounts.csv
+captcha.png
+.env
+*.log

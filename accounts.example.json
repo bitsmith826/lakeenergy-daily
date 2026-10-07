@@ -1,0 +1,18 @@
+[
+  {
+    "email": "user1@example.com",
+    "username": "user1",
+    "password": "Password123!",
+    "fund_password": "Password123!",
+    "invite_code": "REFERRAL_CODE",
+    "registered": true
+  },
+  {
+    "email": "user2@example.com",
+    "username": "user2",
+    "password": "Password123!",
+    "fund_password": "Password123!",
+    "invite_code": "REFERRAL_CODE",
+    "registered": false
+  }
+]
